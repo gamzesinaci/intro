@@ -1,0 +1,7 @@
+/.breakpoints
+/.cache
+/.replit
+/.upm
+/poetry.lock
+/pyproject.toml
+/replit_zip_error_log.txt
